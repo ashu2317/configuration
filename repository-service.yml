@@ -1,13 +1,13 @@
-server.port= 9060
+server.port: 9060
 
 # Mongo server host.
-spring.data.mongodb.host=localhost
+spring.data.mongodb.host: localhost
 
 #Database name.
-spring.data.mongodb.database=team-hr
+spring.data.mongodb.database: team-hr
 
 # Mongo server port.
-spring.data.mongodb.port=27017
+spring.data.mongodb.port: 27017
 
 
 # Authentication database name.
@@ -21,4 +21,4 @@ spring.data.mongodb.port=27017
 #spring.data.mongodb.uri=mongodb://localhost/test # Mongo database URI. When set, host and port are ignored.
 #spring.data.mongodb.username= # Login user of the mongo server.
 
-SECRET_KEY=TeamHR-171285-230386-1
+SECRET_KEY: TeamHR-171285-230386-1
