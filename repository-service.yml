@@ -21,4 +21,6 @@ spring.data.mongodb.port: 27017
 #spring.data.mongodb.uri=mongodb://localhost/test # Mongo database URI. When set, host and port are ignored.
 #spring.data.mongodb.username= # Login user of the mongo server.
 
-SECRET_KEY: TeamHR-171285-230386-1
+SECRET_KEY: 'ENC(RS/QX3ZJjfH1it8Y0LbzY40YlY51uIU6XtWEQJqGHsk=)'
+
+service-secret-key-to-interact: 'ENC(xk0McJFCodDuKeKCOwwhjFJ7yvEDfHpETIochfa+a5EEBtVUx0FS5g==)'
