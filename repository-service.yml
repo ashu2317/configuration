@@ -24,3 +24,5 @@ spring.data.mongodb.port: 27017
 SECRET_KEY: 'ENC(RS/QX3ZJjfH1it8Y0LbzY40YlY51uIU6XtWEQJqGHsk=)'
 
 service-secret-key-to-interact: 'ENC(xk0McJFCodDuKeKCOwwhjFJ7yvEDfHpETIochfa+a5EEBtVUx0FS5g==)'
+
+access-manager-service-name: http://access-manager/api/access
